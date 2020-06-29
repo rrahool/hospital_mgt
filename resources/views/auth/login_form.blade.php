@@ -52,7 +52,7 @@
 					</span>
                     <div class="col-md-12 clearfix text-center mb-0 pb-0">
                         <span class="float-left"><b>Email:</b> a@b.c</span>
-                        <span class="float-right"><b>Password:</b> 123456</span>
+                        <span class="float-right"><b>Pass:</b> 123456</span>
                     </div>
                 @csrf
                 <div class="wrap-input100 validate-input m-t-85 m-b-35" data-validate = "Enter Email">
